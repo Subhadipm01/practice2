@@ -6,6 +6,7 @@ function Body() {
   return (
    <Herobanner /> 
   )
+  
 }
 
 export default Body
