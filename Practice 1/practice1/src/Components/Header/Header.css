@@ -1,0 +1,20 @@
+.Header{
+    width:100%;
+    margin:10px 0;
+    text-align: center;
+    height:5rem;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav{
+    flex: 0.4;
+    display: flex;
+    justify-content: space-around;
+}
+.Menuitem a{
+    text-decoration: none;
+    color:black;
+    
+}
+
